@@ -1,2 +1,13 @@
 # algorithmTraining
 代码随想录-算法训练营-力扣-数据结构
+
+-------------------------------------------------------------------------------------
+
+
+算法训练，Algorithm training
+
+代码随想录-算法训练营-力扣-数据结构
+Code brainstorming - Algorithm training camp - Power button - Data structure
+
+【1】力扣：https://leetcode.cn/
+【2】代码随想录：https://programmercarl.com/
